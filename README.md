@@ -2,7 +2,7 @@
 This project models a complex university network infrastructure with 10 campuses and 8 routers, designed and simulated in Cisco Packet Tracer. The network includes subnetting, OSPF routing, DHCP, DNS, and serial connections, along with a dedicated university website server.
 
 Features
-Multi-Campus Network: 10 campuses with independent and interconnected networks.
+Multi-Campus Network: 8 campuses with independent and interconnected networks.
 Routing Configuration: OSPF protocol for efficient dynamic routing.
 Subnetting: Logical segmentation for optimized network performance.
 DHCP Implementation: Remote DHCP server setup using IP helper-address.
